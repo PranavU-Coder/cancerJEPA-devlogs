@@ -4,3 +4,4 @@ Non-Exhaustive
 - I-JEPA: https://arxiv.org/pdf/2301.08243
 - VJEPA2: https://arxiv.org/pdf/2506.09985
 - Benchmark-Pathology: https://arxiv.org/pdf/2212.04690
+- LungCancer CT-Scans: https://arxiv.org/pdf/2405.04605

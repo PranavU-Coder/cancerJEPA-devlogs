@@ -62,4 +62,15 @@ _Metric:_ Dice score (foreground).
  
 For the downstream tasks we could probably do tumor or metastasis detection, gleason grading & maybe tumour classification.
 
- Stuff to read: https://arxiv.org/pdf/2212.04690 which seems relevant 
+ Stuff to read: https://arxiv.org/pdf/2212.04690 which seems relevant
+
+  [2nd September, 2026 Log]
+
+Deciding to work on finding an a way to apply JEPA to Lung Cancer via mode of CT-scans.
+
+again found a new study which actually seems something very doable: https://arxiv.org/pdf/2405.04605
+also established: https://github.com/PranavU-Coder/LCJepa 
+
+Time to download the LUNA dataset and get onto working.
+
+its official baby
